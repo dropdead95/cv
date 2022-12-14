@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cv/static/css/main.e1e98ec4.css",
+    "main.js": "/cv/static/js/main.9d076436.js",
+    "static/media/me3.png": "/cv/static/media/me3.670e6c14577257de92f4.png",
+    "static/media/delivery.png": "/cv/static/media/delivery.2811964e7a10ba827ad9.png",
+    "static/media/food.png": "/cv/static/media/food.81bc6cab74ea939c7c8e.png",
+    "static/media/landscapes.jpg": "/cv/static/media/landscapes.edb98bba1f950d82954b.jpg",
+    "static/media/me-about.jpg": "/cv/static/media/me-about.44df81d7fcb05ea67ee0.jpg",
+    "static/media/triphouse.jpg": "/cv/static/media/triphouse.8db860fc9a5cd36b5131.jpg",
+    "static/media/luxorides.jpg": "/cv/static/media/luxorides.c61bd3b5ed327630dda6.jpg",
+    "static/media/Resume.pdf": "/cv/static/media/Resume.67ce22efb7f1f0cc04d4.pdf",
+    "static/media/vue3.png": "/cv/static/media/vue3.4dfa5002ea8133648b2c.png",
+    "static/media/todo.png": "/cv/static/media/todo.cd00dac86cb991a4640c.png",
+    "index.html": "/cv/index.html",
+    "main.e1e98ec4.css.map": "/cv/static/css/main.e1e98ec4.css.map",
+    "main.9d076436.js.map": "/cv/static/js/main.9d076436.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1e98ec4.css",
+    "static/js/main.9d076436.js"
+  ]
+}
